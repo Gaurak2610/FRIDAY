@@ -4,6 +4,17 @@ Also Includes Google Calender Api Integration
 
 WORKING:
 
+
+Listening..
+
+cmd:hello friday
+Hello Sir
+
+Listening..
+
+cmd:do i have any meetings today/on the next wednesday
+No upcoming events found
+
 Listening..
 
 cmd: tell me the time
@@ -22,7 +33,15 @@ cmd: calculate 3 cos 40 + 9 sin 50 + 41045
 
 3 cos(40°) + 41045 + 9 cos((2 π)/9)
 
+Listening..
 
+cmd:open ("foldername")[if more than one folder of the same name]
+i have found multiple instances of the folder (eg Autorun) Autorun(1)from friday folder and autorun(2) from private folder which one would you like to open
+
+Listening..
+
+cmd:the first one
+Done Sir
 
 Listening..
 
