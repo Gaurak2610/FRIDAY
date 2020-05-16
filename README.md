@@ -3,8 +3,11 @@ FRIDAY is a Virtual Voice Assistant. It helps making life Simple. Executes many 
 Also Includes Google Calender Api Integration
 
 WORKING:
+
 Listening..
+
 cmd: tell me the time
+
 Sir, the time is 20:09:53
 
 Listening..
@@ -26,7 +29,6 @@ Listening..
 cmd: calculate 4 cos 45 + 9 sin 90 + 3 cos 90
 
 9 + 2 sqrt(2)
-
 
 
 Listening..
