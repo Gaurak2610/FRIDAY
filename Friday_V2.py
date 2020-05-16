@@ -633,6 +633,7 @@ if __name__ == "__main__":
 					voice_note = read_voice_cmd().lower()
 					copysave +=1
 					if 'save' in voice_note:
+						copysave = 0
 						voice_note = voice_note.replace('save it as', '').replace('save as', '').replace('save', '')
 						screenshot_name = ('{}'.format(voice_note)) + ".png"
 						im2 = pyautogui.screenshot(screenshot_name)
@@ -640,6 +641,7 @@ if __name__ == "__main__":
 						speak_text_cmd(reply)
 						break
 					elif copysave >= 3:
+						copysave = 0
 						print("No command received")
 						speak_text_cmd("No command received")
 						break
