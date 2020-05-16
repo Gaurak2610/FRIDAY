@@ -38,7 +38,7 @@ Listening..
 
 cmd:open ("foldername")[if more than one folder of the same name]
 
-i have found multiple instances of the folder (eg Autorun) Autorun(1)from friday folder and autorun(2) from private folder which one would you like to open
+Ihave found multiple instances of the folder (eg Autorun) Autorun(1)from friday folder and autorun(2) from private folder which one would you like to open
 
 Listening..
 
