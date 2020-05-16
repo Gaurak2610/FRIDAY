@@ -1,0 +1,13 @@
+#google calender api integratiom required 
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+Create your google calender api at the link given below
+https://developers.google.com/calendar/quickstart/python
+Step 1 : Run the sample code 
+Step 2 : Login to your google account
+Step 3 : You will get the token and credential and paste it in the folder to get access to your 	google calender 
+Step 4 : Now remove the comment before the sentence #SERVICE = authenticate_google()
+Step 5 : Now you can get alert about any event on the specific date
+NOTE : Specify exact date Example: what do i have on the next friday , do i have any meetings 	todays , etc.
+
+
+Create your Wolframa Api KEY
