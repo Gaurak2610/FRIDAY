@@ -95,4 +95,4 @@ cmd:friday kill power
 
 Sure Sir your system is been shut down
 
-AND ALSO INCLUDES MANY MORE COOL FEAUTRES
+##ALSO INCLUDES MANY MORE COOL FEAUTRES##
